@@ -8,3 +8,5 @@ Este repositorio contiene dos aplicaciones independientes:
 Cada carpeta incluye su propio `app.py`, `requirements.txt` y README. Para
 preparar cualquiera de las aplicaciones, abre PowerShell en su carpeta y sigue
 las instrucciones de su README.
+
+En la carpeta Clase 10 tiene el notebook con la investigación del modelo Keras
